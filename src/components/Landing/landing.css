@@ -1,0 +1,16 @@
+.container-landing-page {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .img-landing {
+    width: 20rem;
+  }
+  
+  .description-landing {
+    padding-left: 1rem;
+    text-justify: auto;
+    font-size: 1rem;
+  }

@@ -1,0 +1,18 @@
+[
+    {
+        "firstName": "Aroj",
+        "lastName": "Bhattarai",
+        "expertise": "Civil Engineer",
+        "address": "Soerser Weg 11b",
+        "postalCode": 52070,
+        "city": "Aachen"
+    },
+    {
+        "firstName": "Mark",
+        "lastName": "Henry",
+        "expertise": "Doctor",
+        "address": "Bongard Str. 02",
+        "postalCode": 52428,
+        "city": "Jülich"
+    }
+]
